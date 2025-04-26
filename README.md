@@ -1,6 +1,6 @@
 # 📱 HorizonDroid Changelog
 
-## 🗓️ Latest Version - **5.2 ALPHA - Supernova**
+## 🗓️ Latest Version - **5.2 | Supernova**
 **Security Patch:** April 2025
 
 ## 🚀 What's New
