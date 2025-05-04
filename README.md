@@ -6,7 +6,8 @@
 ## 🚀 What's New
 
 ### 🐞 Bug Fixes
-
+- Fix clock seconds
+- Fix 4G Switch
 
 ### ⚙️ Improvements and Enhancements
 - Redesign UDFPS icon
@@ -45,6 +46,18 @@
 - Add colors icon for notifications in statusbar
 - Add Show daily data usage in QS footer
 - Add wifi standard icon feature
+- Redesain Volume dialog changes
+- Add notchbarkiller
+- Add force enable LTE_CA
+- Add volume stream steps 
+- Add Data Switch QS Tile
+- Add tasks to recents
+- Add search bar style
+- Add integrate avatar inside A15-revamp search bar
+- Add Hide ADB and developer
+- Add Comss DNS provider
+- Add more DNS providers
+- Add hdr display
 - Introduce Reality Display engine
 - Introduce PropImitationHooks
 - Import illustrations
