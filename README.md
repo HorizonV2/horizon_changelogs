@@ -1,7 +1,7 @@
 # 📱 HorizonDroid Changelog
 
-## 🗓️ Latest Version - **5.2 | Supernova**
-**Security Patch:** April 2025
+## 🗓️ Latest Version - **5.24 | Hyperion**
+**Security Patch:** June 2025
 
 ## 🚀 What's New
 
@@ -58,6 +58,24 @@
 - Add Comss DNS provider
 - Add more DNS providers
 - Add hdr display
+- Android 15 with June security patch (QPR2)
+- Add More Qs Tile
+- Add Volume QS Tile
+- Add Hide power menu on secure lockscreen
+- Add Allow disabling qs on secure lockscreen
+- Add Compact progress indicator style
+- Add Allow to change progressbar opacity 
+- Add Ambient Customizations
+- Add Ripple Unlock Animation
+- Add Monet
+- Add Adjustable max visible notification icons
+- Add Three-target ringer mode tile
+- Add Allow hiding navigation ime bar
+- Add Allow changing HDR brightness intensity
+- Add Kill button to notification guts
+- Initial implementation of KeyboxImitationHooks
+- Redesign seekbar according to M3 slider
+- Use material colors for seekbar
 - Introduce Reality Display engine
 - Introduce PropImitationHooks
 - Import illustrations
